@@ -1,4 +1,4 @@
-# GitHub Repo Uploader
+# GitHub-Repo-Uploader
 
 🐙 Easy-to-use desktop app for quickly creating GitHub repositories, uploading files, and auto-generating impactful repository names and descriptions using AI integration.
 
